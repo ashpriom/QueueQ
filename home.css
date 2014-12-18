@@ -1,0 +1,35 @@
+.navl{
+	border:1px none black;
+	width:210px;
+	height:301px;
+	background-color: #FFFFFF;
+	position:absolute;
+	left: auto;
+	top: 150px;
+	background-image: url(contback.jpg);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-style: inherit;
+	font-size: medium;
+	padding-left: 20px;
+	border-color: #000000;
+	
+
+}
+
+.cont{
+	border:5px none black;
+	width:530px;
+	padding:10px;
+	position:relative;
+	left:219px;
+	top:100px;
+	background-color: #FFFFFF;
+	background-image: url(contback.jpg);
+	font-family: "Times New Roman", Times, serif;
+	border-color: #000000;
+}
+
+body{
+background:11.jpg;
+}
